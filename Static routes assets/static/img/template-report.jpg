@@ -1,0 +1,30 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f3e5f5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ce93d8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#grad2)"/>
+
+  <!-- Report/Chart icon -->
+  <rect x="110" y="70" width="180" height="140" rx="8" fill="white" opacity="0.9"/>
+
+  <!-- Bar chart -->
+  <rect x="130" y="160" width="30" height="40" rx="4" fill="#0070F3"/>
+  <rect x="170" y="140" width="30" height="60" rx="4" fill="#0070F3"/>
+  <rect x="210" y="125" width="30" height="75" rx="4" fill="#0070F3"/>
+  <rect x="250" y="145" width="30" height="55" rx="4" fill="#0070F3"/>
+
+  <!-- Document lines -->
+  <line x1="130" y1="90" x2="260" y2="90" stroke="#0070F3" stroke-width="2" stroke-linecap="round"/>
+  <line x1="130" y1="105" x2="240" y2="105" stroke="#0070F3" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- Decorative elements -->
+  <circle cx="60" cy="50" r="25" fill="white" opacity="0.3"/>
+  <circle cx="340" cy="250" r="35" fill="white" opacity="0.3"/>
+
+  <!-- Title -->
+  <text x="200" y="250" font-family="Inter, sans-serif" font-size="18" font-weight="600" fill="#9c27b0" text-anchor="middle">Report Generator</text>
+</svg>
