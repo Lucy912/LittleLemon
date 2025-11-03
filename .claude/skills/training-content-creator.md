@@ -39,54 +39,32 @@
 
 ## Methodology: The 8-Step Training Creation Process
 
-### Step 1: Define Training Structure
-**Goal:** Create comprehensive curriculum framework before diving into details
+**CRITICAL:** Always research FIRST, then create. Research informs all decisions.
 
-**Actions:**
-1. Identify core learning objectives
-2. Break into logical modules (8-12 for full course)
-3. Sequence modules for progressive skill building
-4. Define deliverables for each module
-5. Estimate time requirements (video length, homework, practice)
-
-**Output:** Master training structure document with module breakdown
-
-**Key Questions:**
-- What should learners be able to DO after completing this?
-- What's the logical progression from beginner to proficient?
-- What's the minimum viable curriculum (MVP)?
-
----
-
-### Step 2: Research Best Practices
-**Goal:** Inform content strategy with proven approaches
-
-**Research Areas:**
-- Video format best practices (length, structure, engagement)
-- Top-performing content in your domain (what works?)
-- Audience preferences and consumption patterns
-- Competitor analysis (gaps and opportunities)
-- Tools and delivery platforms
+### Step 1: Research Best Practices
+**Goal:** Inform ALL content decisions with proven approaches
+**TIMING:** Do this BEFORE creating any structure or content
 
 **Actions:**
 1. Search for top YouTube videos in topic area
 2. Analyze what makes them successful (retention, comments, views)
-3. Research educational video best practices
-4. Document key findings and benchmarks
+3. Research educational video best practices (length, engagement, format)
+4. Document key findings and specific metrics
 
-**Output:** Research findings document with specific, actionable insights
+**Output:** Research findings document with actionable insights
 
 **Key Metrics to Discover:**
-- Optimal video length
-- Retention patterns
-- Engagement techniques
-- Format preferences
-- Pricing benchmarks (if monetized training)
+- Optimal video length (typically 6-9 min for education)
+- Retention patterns (where viewers drop off)
+- Engagement techniques (pattern interrupts, hooks)
+- Format preferences (screen recording, slides, talking head)
+- Pricing benchmarks (if monetized)
 
 ---
 
-### Step 3: Audience Analysis
-**Goal:** Deep understanding of who you're serving and what they need
+### Step 2: Audience Analysis
+**Goal:** Deep understanding of who you're serving
+**TIMING:** Do this BEFORE creating structure
 
 **Segments to Define:**
 - Demographics (age, role, industry, income)
@@ -107,8 +85,52 @@
 
 ---
 
-### Step 4: Content Outlining
+### Step 3: Define Training Structure
+**Goal:** Create comprehensive curriculum framework
+**TIMING:** AFTER research and audience analysis
+
+**Actions:**
+1. Use research insights to determine video lengths (typically 6-12 min)
+2. Break into logical modules (8-12 for full course)
+3. Sequence modules based on audience needs (quick wins early!)
+4. Define specific deliverables for each session
+5. Align with business model (B2B vs B2C formats)
+
+**Output:** Master training structure document
+
+**Key Questions:**
+- What should learners be able to DO after completing this?
+- Does sequence match audience needs from analysis?
+- Are video lengths optimal per research? (6-9 min ideal)
+- What's the MVP (minimum viable curriculum)?
+
+**Common Mistake:** Creating structure first, then researching. **Wrong order!**
+
+---
+
+### Step 4: Production Workflow Planning
+**Goal:** Determine fastest viable production method
+**TIMING:** Before creating detailed content
+
+**Tiers:**
+- **Tier 1: Maximum Speed** (2-3 hours) - Outline only, 1-2 takes
+- **Tier 2: Balanced** (4-6 hours) - Detailed outline, targeted editing
+- **Tier 3: High Polish** (8-12 hours) - Full script, professional production
+
+**Decision Criteria:**
+- First 3-5 videos? → Tier 1 (ship fast, learn)
+- Videos 6-15? → Tier 2 (consistent quality)
+- Hero content? → Tier 3 (high visibility)
+
+**Output:** Production plan and tool requirements
+
+**Key Principle:** Ship "good enough" fast, improve systematically.
+
+---
+
+### Step 5: Content Outlining
 **Goal:** Structure individual session with precise timing and flow
+**TIMING:** After structure is defined, before scripting
 
 **Framework:**
 1. **Hook (0:00-0:15):** Grab attention, create curiosity
@@ -127,12 +149,16 @@
 
 **Output:** Detailed session outline with precise timing and content blocks
 
-**Quality Check:** Can someone understand the value in the first 30 seconds?
+**Quality Check:**
+- Can someone understand value in first 15 seconds? (Critical per research)
+- Are pattern interrupts planned every 2-3 min?
+- Is video length 6-12 min?
 
 ---
 
-### Step 5: Research-Specific Content
-**Goal:** Validate your approach for this specific session/topic
+### Step 6: Research-Specific Content
+**Goal:** Validate approach for this specific topic
+**TIMING:** After outline, before scripting
 
 **Actions:**
 1. Search for best practices in this specific domain
@@ -142,41 +168,50 @@
 
 **Output:** Topic-specific research findings
 
-**Example:** For a prompt engineering session, research:
-- Most effective prompt frameworks (CRAFT, RISEN, etc.)
+**Example:** For prompt engineering session:
+- Most effective prompt frameworks (CRAFT, RISEN, 5-Part)
 - OpenAI's official best practices
-- What specific techniques get best results
+- What techniques get best results
 
 ---
 
-### Step 6: Full Script Development
-**Goal:** Create word-for-word script with production notes
+### Step 7: Script Development (Tier-Appropriate)
+**Goal:** Create production-ready content at chosen tier level
 
-**Components:**
-- Exact dialogue (what you'll say)
+**Tier 1 (Recommended for first videos):**
+- Detailed outline with talking points
+- Key examples prepared
+- No word-for-word script
+- Record in 1-2 takes
+
+**Tier 2 (After 5-10 videos):**
+- Full script with production notes
+- Timing markers every 30-60 seconds
+- Pattern interrupts noted
+- Record in segments, 2 takes each
+
+**Tier 3 (Hero content only):**
+
+**Word-for-word script:**
+- Exact dialogue
 - Visual cues (what's on screen)
 - Editing notes (transitions, effects)
 - Timing markers (every 30-60 seconds)
 - Pattern interrupts (music changes, visual shifts)
 
-**Actions:**
-1. Expand outline into full script
-2. Write for speaking, not reading (conversational tone)
-3. Include pause points for emphasis
-4. Add production notes for editor
-5. Create accessibility notes (captions, visuals for audio content)
+**Output:** Content appropriate to chosen tier
 
-**Output:** Complete script document ready for recording
-
-**Writing Tips:**
-- Read script aloud—if it sounds unnatural, rewrite
-- Vary sentence length (short for emphasis, longer for explanation)
+**Writing Tips (if scripting):**
+- Read aloud—if unnatural, rewrite
+- Vary sentence length
 - Use "you" language (direct address)
-- Include rhetorical questions to maintain engagement
+- Include rhetorical questions
+
+**Key Decision:** Start Tier 1, upgrade to Tier 2 after learning what works.
 
 ---
 
-### Step 7: Supporting Materials
+### Step 8: Supporting Materials
 **Goal:** Create all deliverables that enhance the core content
 
 **Materials to Create:**
@@ -197,44 +232,48 @@
 
 ---
 
-### Step 8: Production Workflow Planning
-**Goal:** Determine fastest, most viable way to produce content
-
-**Tiers to Consider:**
-- **Tier 1: Maximum Speed** - Record once, light editing (2-3 hours)
-- **Tier 2: Balanced** - Prepared outline, targeted editing (4-6 hours)
-- **Tier 3: High Polish** - Full production (8-12 hours)
-
-**Actions:**
-1. Choose appropriate tier based on goals and constraints
-2. Identify tools needed (recording, editing, graphics)
-3. Create production checklist
-4. Plan batch production if creating multiple videos
-
-**Output:** Production workflow document with tool recommendations
-
-**Key Decision:** Start with Tier 1, improve systematically.
-
----
-
 ## Applying This Process
 
-### For a Single Session (10-min video):
-**Total Time: 4-8 hours** (first time), 2-4 hours (optimized)
+**CORRECT ORDER: Research → Audience → Structure → Create**
 
-1. Structure (30 min) - Define session goals and flow
-2. Research (60 min) - Find what works for this format/topic
-3. Audience (30 min) - Quick persona and needs check
-4. Outline (60 min) - Detailed timing and content blocks
-5. Content Research (30 min) - Specific to this topic
-6. Script (90 min) - Full word-for-word with production notes
-7. Materials (60 min) - Slides and downloadable resource
-8. Production (varies) - Record and edit based on tier chosen
+### For a Single Session (10-min video):
+
+**Tier 1 (RECOMMENDED for first 3-5 videos): 2-3 hours total**
+1. Research (30 min) - Best practices for format/topic
+2. Audience (15 min) - Quick needs check
+3. Outline (30 min) - Talking points, not full script
+4. Materials prep (30 min) - Examples, slides (minimal)
+5. Record (60 min) - 1-2 takes, keep going
+6. Edit (45 min) - Cut mistakes, add 3-5 graphics
+7. Publish (15 min) - Upload, caption, thumbnail
+
+**Tier 2 (After 5-10 videos): 4-6 hours total**
+1. Research (45 min) - Specific to this topic
+2. Outline (90 min) - Detailed with timing
+3. Script (90 min) - Full word-for-word
+4. Materials (60 min) - Slides + deliverable
+5. Record (90 min) - Segments, 2 takes each
+6. Edit (120 min) - Professional polish
+7. Publish (30 min) - Quality captions, A/B test thumbnails
 
 ### For a Complete Course (8 modules):
-**Weeks 1-2:** Structure + Research + Audience (entire course)
-**Weeks 3-10:** Create one module per week following steps 4-8
-**Week 11-12:** Review, revise, package
+
+**Phase 1: Research & Strategy (Week 1)**
+- Day 1-2: YouTube/content research (ALL modules)
+- Day 3-4: Audience analysis (3 segments)
+- Day 5: Define complete structure (8 modules, video lengths)
+
+**Phase 2: MVP Creation (Weeks 2-4)**
+- Create first 5-7 videos (Modules 1-2 + key sessions)
+- Use Tier 1 workflow
+- Test with first 3-5 participants
+
+**Phase 3: Full Production (Weeks 5-12)**
+- Complete all modules
+- Move to Tier 2 workflow
+- Iterate based on feedback
+
+**Critical:** Don't create structure before research!
 
 ---
 
@@ -476,14 +515,23 @@
 
 ## Version History
 
+**v2.0 (November 2025):**
+- **CORRECTED:** Research-first methodology (was incorrectly structure-first)
+- Reordered steps: Research → Audience → Structure → Create
+- Added production tier guidance (Tier 1/2/3)
+- Emphasized "ship fast, iterate" for first videos
+- Updated examples and timings
+
 **v1.0 (November 2025):**
 - Initial skill documentation
 - Based on AI training video creation
 - Includes 8-step process and quality checkpoints
+- **NOTE:** Had methodology in wrong order, corrected in v2.0
 
 ---
 
-**END OF TRAINING CONTENT CREATOR SKILL**
+**END OF TRAINING CONTENT CREATOR SKILL v2.0**
 
 **To use:** Reference this skill when creating any educational or training content.
+**Critical:** Always research FIRST, then create. Don't reverse this order!
 **To improve:** Update based on results and lessons learned from each training produced.
